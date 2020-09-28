@@ -1,0 +1,11 @@
+!.keep
+*.DS_Store
+*.dump
+*.swo
+*.swp
+.idea
+/.bundle
+/.env
+/.foreman
+/coverage/*
+
